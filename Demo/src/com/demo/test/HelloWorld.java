@@ -12,6 +12,9 @@ public class HelloWorld {
 		
 		// HelloWorld.java version 2.0
 		System.out.println("Hello,version 2.0");
+		
+		// HelloWorld.java version 3.0
+		System.out.println("Hello,version 3.0");
 	}
 
 }
