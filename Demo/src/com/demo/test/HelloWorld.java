@@ -7,8 +7,8 @@ public class HelloWorld {
 	 */
 	public static void main(String[] args) {
 		
-		// version 1.0
-		System.out.println("hello,version 1.0");
+		// HelloWorld.java version 1.0
+		System.out.println("Hello,version 1.0");
 	}
 
 }
