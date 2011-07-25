@@ -9,6 +9,9 @@ public class Demo {
 		
 		// Demo.java version 1.0
 		System.out.println("Hello,sub git,version 1.0");
+		
+		// Demo.java version 2.0-2011.7.25
+		System.out.println("Hello,sub git,version 2.0");
 
 	}
 
