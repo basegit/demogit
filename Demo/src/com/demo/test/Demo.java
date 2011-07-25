@@ -7,6 +7,8 @@ public class Demo {
 	 */
 	public static void main(String[] args) {
 		
+		// Demo.java version 1.0
+		System.out.println("Hello,sub git,version 1.0");
 
 	}
 
