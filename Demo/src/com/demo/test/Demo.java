@@ -7,8 +7,14 @@ public class Demo {
 	 */
 	public static void main(String[] args) {
 		
-		// 2011.7.25 changed version2011725-1
-		System.out.println("Hello,version 1.0");
+		// Demo.java version 1.0
+		System.out.println("Hello,sub git,version 1.0");
+		
+		// Demo.java version 2.0-2011.7.25
+		System.out.println("Hello,sub git,version 2.0");
+		
+		// Demo.java version 3.0-14:39
+		System.out.println("Hello,sub git,version 3.0");
 
 	}
 
