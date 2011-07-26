@@ -6,8 +6,10 @@ public class Demo1 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		
+		// sub changed version 1.0
+		String s = "sub changed";
+		
 	}
 
 }
