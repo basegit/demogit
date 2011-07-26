@@ -8,6 +8,9 @@ public class AddSubDemo {
 	// 用户名
 	private String name;
 	
+	// 电话
+	private String cell;
+	
 	/**
 	 * 默认构造
 	 */
@@ -37,6 +40,14 @@ public class AddSubDemo {
 
 	public void setName(String name) {
 		this.name = name;
+	}
+
+	public String getCell() {
+		return cell;
+	}
+
+	public void setCell(String cell) {
+		this.cell = cell;
 	}
 	
 }
